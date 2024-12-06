@@ -6,4 +6,4 @@
 5. Functions
 6. Data Structures (Lists)
 7. File handling
-8.  
+8. Data Structures (Dictionaries)
